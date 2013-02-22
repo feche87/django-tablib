@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-21 23:28-0300\n"
+"PO-Revision-Date: 2013-08-29 13:44+0100\n"
+"Last-Translator: Federico Huel <federico.huel@gmail.com>\n"
+"Language-Team: LANGUAGE \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: base.py:34
+msgid "Y"
+msgstr "Y"
+
+#: base.py:34
+msgid "N"
+msgstr "N"
+
+#: templates/tablib/change_list.html:8
+#, python-format
+msgid "Export to %(format)s "
+msgstr "Exportar a %(format)s"
+
+#: templates/tablib/change_list.html:13
+#, python-format
+msgid "Add %(name)s"
+msgstr "Agregar %(name)s"
+
+#~ msgid "Export to XLS"
+#~ msgstr "Exportar a XLS"
